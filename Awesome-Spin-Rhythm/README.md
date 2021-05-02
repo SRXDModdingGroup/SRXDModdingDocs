@@ -1,4 +1,7 @@
-# 999. Awesome Spin Rhythm
+---
+sort: 999
+---
+# Awesome Spin Rhythm
 
 ## Table of Contents:
 
