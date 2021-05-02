@@ -17,15 +17,17 @@ And here's how to do that:
 
 For C# there are a few IDE's you can choose from:
 
-- [Visual Studio](https://visualstudio.microsoft.com/) (Free) - Mac Compatible, Recommended for Beginners
-- [Rider](https://www.jetbrains.com/rider/) (Paid / Free for Students) - Linux/Mac Compatible
-- [Omnisharp with VSCode/Atom/Brackets/Emacs/Sublime Text](https://code.visualstudio.com/) (Free) - Linux/Mac Compatible
-- [MonoDevelop](https://www.monodevelop.com/) (Free) - Linux/Mac Compatible - No Longer Maintained
+| Name:                                                        | Monotization:            | Compatibility:        | Notes:                    |
+| ------------------------------------------------------------ | ------------------------ | --------------------- | ------------------------- |
+| [Visual Studio](https://visualstudio.microsoft.com/)         | Free                     | Windows / Mac         | Recommended for Beginners |
+| [Rider](https://www.jetbrains.com/rider/)                    | Paid / Free for Students | Windows / Linux / Mac |                           |
+| [Omnisharp with VSCode/Atom/Brackets/Emacs/Sublime Text](https://code.visualstudio.com/) | Free                     | Windows / Linux / Mac |                           |
+| [MonoDevelop](https://www.monodevelop.com/)                  | Free                     | Windows / Linux / Mac | No Longer Maintained      |
 
 ### Build Tools
 
 For C# you can choose between two different build tools:
 
-- MSBuild (Comes with Visual Studio and Mono)
+- MSBuild (Comes with Visual Studio, Rider, and Mono)
 - DotNet (Can be Installed Standalone)
 
