@@ -10,5 +10,5 @@ And here's how to do that:
 
 ## Installation
 
-[Installation](../../1. Installing/)
+[BepInEx Installation](../../1. Installing/)
 
