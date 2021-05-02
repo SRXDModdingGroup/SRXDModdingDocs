@@ -22,6 +22,8 @@
 
 *Mods that you can use with Spin Rhythm XD*
 
+- [SRXDLadderModBepin](spin-board.herokuapp.com/)
+
 ## Docs
 
 *Documentation for Modding*
