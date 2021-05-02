@@ -6,9 +6,9 @@ sort: 999
 ## Table of Contents:
 
 - Awesome Spin Rhythm
-  - [Tools](#Tools)
-  - [Mods](#Mods)
-  - [Docs](#Docs)
+  - [Tools](#tools)
+  - [Mods](#mods)
+  - [Docs](#docs)
 
 ## Tools
 
