@@ -31,7 +31,7 @@ sort: 999
 *Documentation for Modding*
 
 - [SRXDModdingGroup Docs](https://srxdmoddinggroup.github.io/)
-- [Simple SRXD Mod Template](https://github.com/SRXDModdingGroup/SRXDModTemplete/releases/new)
+- [Simple SRXD Mod Template](https://github.com/SRXDModdingGroup/SRXDModTemplete/)
 - [BepInExDocs](https://bepinex.github.io/bepinex_docs/master/articles/index.html)
   - [Writing a Basic Plugin](https://bepinex.github.io/bepinex_docs/master/articles/dev_guide/plugin_tutorial/index.html)
   - [List of Useful Development Plugins](https://bepinex.github.io/bepinex_docs/master/articles/dev_guide/dev_tools.html)
