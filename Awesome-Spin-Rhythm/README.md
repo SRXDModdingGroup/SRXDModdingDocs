@@ -15,6 +15,7 @@ sort: 999
 *General Modding Tools*
 
 - [SRXDBepInExInstaller](https://github.com/SRXDModdingGroup/SRXDBepInExInstaller) - BepInEx Installer for Spin Rhythm XD (PC)
+- [Sinai's UnityExplorer](https://github.com/sinai-dev/UnityExplorer)
 
 - [MelonLoader's Helper for Stable Coroutine Support (You can Modify and Include This)](https://raw.githubusercontent.com/LavaGang/MelonLoader/alpha-development/SM_Il2Cpp/Coroutines.cs)
 
