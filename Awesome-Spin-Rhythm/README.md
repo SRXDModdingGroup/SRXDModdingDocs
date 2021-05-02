@@ -9,9 +9,6 @@ sort: 999
   - [Tools](#Tools)
   - [Mods](#Mods)
   - [Docs](#Docs)
-  - [Websites](#Websites)
-
-
 
 ## Tools
 
@@ -26,6 +23,8 @@ sort: 999
 *Mods that you can use with Spin Rhythm XD*
 
 - [SRXDLadderModBepin](spin-board.herokuapp.com/)
+- [OwORhythmRewritten](https://github.com/SRXDModdingGroup/OwORhythmRewritten)
+- [TournamentTool](https://github.com/SRXDModdingGroup/TournamentTool)
 
 ## Docs
 
@@ -39,9 +38,5 @@ sort: 999
 - [HarmonyX Wiki](https://github.com/BepInEx/HarmonyX/wiki/Basic-usage)
   - [Difference Between Harmony and HarmonyX](https://github.com/BepInEx/HarmonyX/wiki/Difference-between-Harmony-and-HarmonyX)
   - [Harmony Docs](https://harmony.pardeike.net/)
-
-
-
-## Websites
-
-*Miscellaneous Websites*
+- [Among Us' Reactor's IL2CPP BepInEx Guide](https://docs.reactor.gg/docs/basic/bepinex_guide)
+  - [Reactor's Harmony Guide](https://docs.reactor.gg/docs/basic/harmony_guide)
