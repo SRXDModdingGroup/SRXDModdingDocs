@@ -10,5 +10,5 @@ And here's how to do that:
 
 ## Installation
 
-[Installation](../Installing/README.md)
+[Installation](../../1. Installing/)
 

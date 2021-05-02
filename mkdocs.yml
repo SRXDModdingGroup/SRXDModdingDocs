@@ -8,6 +8,5 @@ theme:
         - rust
         - csharp
 
-
 markdown_extensions:
   - mdx_truly_sane_lists
