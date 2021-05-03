@@ -1,4 +1,6 @@
 site_name: SRXDModdingDocs
+repo_url: https://github.com/SRXDModdingGroup/SRXDModdingDocs
+repo_name: SRXDModdingGroup/SRXDModdingDocs
 
 theme:
     language: en
