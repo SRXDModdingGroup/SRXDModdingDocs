@@ -1,5 +1,6 @@
 site_name: SRXDModdingDocs
 repo_url: https://github.com/SRXDModdingGroup/SRXDModdingDocs
+edit_uri: 'edit/main/docs'
 repo_name: SRXDModdingGroup/SRXDModdingDocs
 
 theme:

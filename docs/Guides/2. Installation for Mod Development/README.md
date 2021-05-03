@@ -11,7 +11,7 @@ And here's how to do that:
 ## Installation
 ### BepInEx Installation
 
-[BepInEx Installation](../../1. Installing/)
+[BepInEx Installation](../1. Installing BepInEx/)
 
 ### IDE's
 

@@ -21,3 +21,11 @@ If you get the error "failed to execute script srxdbepinexinstallerui" or instal
 8. Now navigate to `Spin Rhythm\BepInEx`
 9. Create a `plugins` folder inside the BepInEx folder
 10. Put your mods in the `Spin Rhythm\BepInEx\plugins` folder.
+
+## Notes for Linux and Mac Users
+
+__If you are on Linux or Mac, remember to add `winhttp` to the wine configuration overrides. Otherwise, BepInEx may not start with the game.__
+
+Here's how to do that:
+### Wine Users:
+### Proton Users:
