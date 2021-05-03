@@ -7,11 +7,14 @@ theme:
 
     name: material
 
+    logo: https://github.com/SRXDModdingGroup.png?size=40
+
     features:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.indexes
     - navigation.top
+    - navigation.instant
 
     palette:
     - scheme: default
