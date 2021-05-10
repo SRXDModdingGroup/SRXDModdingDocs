@@ -27,5 +27,21 @@ If you get the error "failed to execute script srxdbepinexinstallerui" or instal
 __If you are on Linux or Mac, remember to add `winhttp` to the wine configuration overrides. Otherwise, BepInEx may not start with the game.__
 
 Here's how to do that:
-### Wine Users:
-### Proton Users:
+### Proton on Linux Users
+
+```shell
+# Set the Wine Prefix.
+WINEPREFIX="/home/{Your Username}/.local/share/Steam/steamapps/compatdata/1058830/pfx"
+
+# Run winecfg Using Proton.
+"/home/{Your Username}/.local/share/Steam/steamapps/common/Proton {Your Proton Version}/dist/bin/wine64" winecfg
+```
+
+### Otherwise
+
+```shell
+winecfg
+```
+
+### Then Navigate to the Libraries Tab
+![Add winhttp.dll](assets/winhttp_add.gif)
