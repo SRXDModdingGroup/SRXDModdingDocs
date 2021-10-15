@@ -27,20 +27,27 @@ If you get the error "failed to execute script srxdbepinexinstallerui" or instal
 __If you are on Linux or Mac, remember to add `winhttp` to the wine configuration overrides. Otherwise, BepInEx may not start with the game.__
 
 Here's how to do that:
-### Proton on Linux Users
+### Proton on Linux Users (Make sure Winetricks is installed)
 
 ```shell
-# Set the Wine Prefix.
-WINEPREFIX="/home/{Your Username}/.local/share/Steam/steamapps/compatdata/1058830/pfx"
+# Install pipx
+## Arch Linux:
+sudo pacman -S python-pip python-pipx python-setuptools python-virtualenv
+## Debian linux
+sudo apt install python3-pip python3-setuptools python3-venv pipx
+## Fedora Linux
+sudo dnf install python3-pip python3-setuptools python3-libs pipx
 
-# Run winecfg Using Proton.
-"/home/{Your Username}/.local/share/Steam/steamapps/common/Proton {Your Proton Version}/dist/bin/wine64" winecfg
-```
+# Use pipx to install Protontricks (you might have to restart your terminal)
+pipx install protontricks
+# After install, enable desktop integration
+protontricks-desktop-install
 
-### Otherwise
-
-```shell
-winecfg
+# Run protontricks
+protontricks --gui
+## Select Spin Rhythm XD from the list of games
+## Select the default wineprefix
+## Run winecfg
 ```
 
 ### Then Navigate to the Libraries Tab
