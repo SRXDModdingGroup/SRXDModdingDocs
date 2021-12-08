@@ -1,5 +1,4 @@
 # Installation
-The preferred BepInEx BE6.0.0 version is 381.
 
 ## Automatic Installation
 
